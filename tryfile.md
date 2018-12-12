@@ -86,6 +86,16 @@ end
 hello = HelloWorld.new("World")
 hello.sayHi
 ```
+```perl
+1.  #!/usr/bin/env perl
+2.  use strict;
+3.  use warnings;
+
+5.  print  "Hello world\n";
+6.  print  42,  "\n";
+```
+```julia
+```
 
 |Item|Value|
 ------|-----
@@ -172,5 +182,5 @@ K:Em
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMzMjAyNzEsMTQ1MjcxNzg2NF19
+eyJoaXN0b3J5IjpbNDQyODAzODI0LDE0NTI3MTc4NjRdfQ==
 -->
