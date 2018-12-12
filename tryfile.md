@@ -73,7 +73,19 @@ System.out.println("hello World!");
 ```python
 print("Goodbye, World!")
 ```
+```ruby
+class HelloWorld
+   def initialize(name)
+      @name = name.capitalize
+   end
+   def sayHi
+      puts "Hello #{@name}!"
+   end
+end
 
+hello = HelloWorld.new("World")
+hello.sayHi
+```
 
 |Item|Value|
 ------|-----
@@ -160,5 +172,5 @@ K:Em
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODg4MjAxMiwxNDUyNzE3ODY0XX0=
+eyJoaXN0b3J5IjpbLTIwMjMzMjAyNzEsMTQ1MjcxNzg2NF19
 -->
