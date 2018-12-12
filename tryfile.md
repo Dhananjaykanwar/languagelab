@@ -95,6 +95,14 @@ hello.sayHi
 6.  print  42,  "\n";
 ```
 ```julia
+e_str1 = "2.718"
+e = float(e_str1)
+println(5e)
+#> 13.5914
+num_15 = parse(Int, "15")
+println(3num_15)
+```
+```swift
 ```
 
 |Item|Value|
@@ -182,5 +190,5 @@ K:Em
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyODAzODI0LDE0NTI3MTc4NjRdfQ==
+eyJoaXN0b3J5IjpbMTA2NzQwNTc4NiwxNDUyNzE3ODY0XX0=
 -->
