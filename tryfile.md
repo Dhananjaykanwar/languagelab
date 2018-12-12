@@ -115,6 +115,9 @@ func main() {
     fmt.Println("hello world")
 }
 ```
+```rust
+$ ./hello Hello World!
+```
 
 |Item|Value|
 ------|-----
@@ -201,5 +204,5 @@ K:Em
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjgwNDYzOSwxNDUyNzE3ODY0XX0=
+eyJoaXN0b3J5IjpbMTM3NzYwNzIzMywxNDUyNzE3ODY0XX0=
 -->
