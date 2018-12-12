@@ -103,6 +103,17 @@ num_15 = parse(Int, "15")
 println(3num_15)
 ```
 ```swift
+import Swift
+print("Hello, World!")
+```
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello world")
+}
 ```
 
 |Item|Value|
@@ -190,5 +201,5 @@ K:Em
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzQwNTc4NiwxNDUyNzE3ODY0XX0=
+eyJoaXN0b3J5IjpbMTY1NjgwNDYzOSwxNDUyNzE3ODY0XX0=
 -->
