@@ -16,7 +16,65 @@ _Emphasize_
 -------
 ```javascript
 var foo = 'bar';
+$(document).ready(function(){
+alert('hello world!');
+});
 ```
+```html
+<html>
+<head>
+<body></body>
+</head>
+</html>
+```
+```css
+.class
+{
+background-color:red;
+}
+#id
+{
+border:2px solid black;
+}
+```
+```php
+<?php
+$hello;
+echo "Hello World";
+?>
+```
+```c++
+#include<iostream.h>
+void main()
+{
+int i;
+for(i=0;i<10;i++)
+cout<<i;
+}
+```
+```c
+#include<stdio.h>
+void main()
+{
+printf("Hello again");
+}
+
+```
+```java
+import java.io.*
+public class main
+{
+public static void main(String args[]) throws IOException
+{
+System.out.println("hello World!");
+}
+}
+```
+```python
+print("Goodbye, World!")
+```
+
+
 |Item|Value|
 ------|-----
 Computer|$1600
@@ -102,5 +160,5 @@ K:Em
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NTg5Mzk4LDE0NTI3MTc4NjRdfQ==
+eyJoaXN0b3J5IjpbMTE1ODg4MjAxMiwxNDUyNzE3ODY0XX0=
 -->
